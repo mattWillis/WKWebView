@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.telerik.plugins.wkwebview"
+        id="com.mostlyepic.plugins.wkwebview"
         version="0.6.1">
 
   <name>WKWebView Polyfill</name>
@@ -65,7 +65,7 @@
     <source-file src="src/ios/CDVWebViewOperationsDelegate.m"/>
     <header-file src="src/ios/CDVWebViewUIDelegate.h"/>
     <source-file src="src/ios/CDVWebViewUIDelegate.m"/>
-    
+
     <dependency id="cordova-plugin-webserver" />
 
   </platform>
